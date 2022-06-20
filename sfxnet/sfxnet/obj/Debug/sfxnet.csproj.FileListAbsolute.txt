@@ -1,0 +1,6 @@
+E:\sfxnet\sfxnet\bin\Debug\sfxnet.dll
+E:\sfxnet\sfxnet\bin\Debug\sfxnet.pdb
+E:\sfxnet\sfxnet\obj\Debug\sfxnet.csproj.AssemblyReference.cache
+E:\sfxnet\sfxnet\obj\Debug\sfxnet.csproj.CoreCompileInputs.cache
+E:\sfxnet\sfxnet\obj\Debug\sfxnet.dll
+E:\sfxnet\sfxnet\obj\Debug\sfxnet.pdb
